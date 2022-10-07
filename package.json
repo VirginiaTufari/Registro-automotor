@@ -1,0 +1,23 @@
+{
+  "name": "registro-automotor",
+  "version": "1.0.0",
+  "description": "actividad obligatoria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VirginiaTufari/Registro-automotor.git"
+  },
+  "author": "Virginia Tufari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VirginiaTufari/Registro-automotor/issues"
+  },
+  "homepage": "https://github.com/VirginiaTufari/Registro-automotor#readme",
+  "dependencies": {
+    "@types/node": "^18.8.3",
+    "readline-sync": "^1.4.10"
+  }
+}
