@@ -4,7 +4,8 @@
   "description": "actividad obligatoria",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "convertir": "tsc registro.ts",
+    "ejecutar": "node registro.js"
   },
   "repository": {
     "type": "git",
